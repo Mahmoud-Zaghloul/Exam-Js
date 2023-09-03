@@ -1,0 +1,48 @@
+body{
+    background-color: #0D0D0D;
+    color: #f9f6f6 !important;
+    /* overflow: hidden; */
+}
+
+.tabs{
+    background-color: #0D0D0D;
+}
+
+.logo{
+    width: 50px;
+}
+
+
+.Nav-Menu{
+    z-index: 999;
+}
+i{
+    cursor: pointer;
+}
+
+.alert{
+    width: fit-content;
+}
+
+.loading-screen{
+    z-index: 999;
+    display: flex;
+}
+
+
+.inner-loading-screen{
+    position: absolute;
+    z-index: 9;
+    background-color: #0D0D0D;
+    display: flex;
+}
+
+.open-close-icon{
+    transform: translateY(100%);
+}
+
+
+
+
+
+
